@@ -2,7 +2,7 @@ var count;
 
 
 function setup(){
-	createCanvas(680, 600);
+	createCanvas(800, 900);
 
 	count = 0;
 }
