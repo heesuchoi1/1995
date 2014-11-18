@@ -16,6 +16,7 @@ function draw(){
     if(count>680){
 	count=0;
 	}
+	
 }
 
 function drawCircle(x,y){
